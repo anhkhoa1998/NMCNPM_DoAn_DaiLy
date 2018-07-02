@@ -1,0 +1,11 @@
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Debug\QLDLDTO.Resources.resources
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Debug\QLDLDTO.vbproj.GenerateResource.cache
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Debug\QLDLDTO.vbproj.CoreCompileInputs.cache
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\bin\Debug\QLDLDTO.exe.config
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\bin\Debug\QLDLDTO.exe
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\bin\Debug\QLDLDTO.pdb
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\bin\Debug\QLDLDTO.xml
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Debug\QLDLDTO.exe
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Debug\QLDLDTO.xml
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Debug\QLDLDTO.pdb
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Debug\QLDLDTO.vbprojAssemblyReference.cache

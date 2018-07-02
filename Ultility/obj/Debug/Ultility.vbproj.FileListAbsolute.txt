@@ -1,0 +1,11 @@
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\obj\Debug\Ultility.Resources.resources
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\obj\Debug\Ultility.vbproj.GenerateResource.cache
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\obj\Debug\Ultility.vbproj.CoreCompileInputs.cache
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\bin\Debug\Ultility.exe.config
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\bin\Debug\Ultility.exe
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\bin\Debug\Ultility.pdb
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\bin\Debug\Ultility.xml
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\obj\Debug\Ultility.exe
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\obj\Debug\Ultility.xml
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\obj\Debug\Ultility.pdb
+C:\Users\KEnH\Desktop\FileBT\QLDL\Ultility\obj\Debug\Ultility.vbprojAssemblyReference.cache

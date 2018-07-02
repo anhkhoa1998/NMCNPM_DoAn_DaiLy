@@ -1,0 +1,11 @@
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\bin\Release\QLDLDTO.exe.config
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\bin\Release\QLDLDTO.exe
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\bin\Release\QLDLDTO.pdb
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\bin\Release\QLDLDTO.xml
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Release\QLDLDTO.vbprojAssemblyReference.cache
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Release\QLDLDTO.Resources.resources
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Release\QLDLDTO.vbproj.GenerateResource.cache
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Release\QLDLDTO.vbproj.CoreCompileInputs.cache
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Release\QLDLDTO.exe
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Release\QLDLDTO.xml
+C:\Users\KEnH\Desktop\FileBT\QLDL\QLDLDTO\obj\Release\QLDLDTO.pdb
